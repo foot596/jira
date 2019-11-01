@@ -3,7 +3,7 @@ maintainer 'KLM Royal Dutch Airlines'
 maintainer_email 'martijn.vanderkleijn@klm.com'
 license 'Apache 2.0'
 description 'Installs/Configures Atlassian JIRA.'
-version '2.14.4'
+version '2.14.5'
 source_url 'https://github.com/klangrud/jira'
 issues_url 'https://github.com/klangrud/jira/issues'
 
